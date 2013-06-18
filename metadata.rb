@@ -1,6 +1,6 @@
 name             'sherzzo-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Sherzod Odinaev'
+maintainer_email 'navicroc@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures sherzzo-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
